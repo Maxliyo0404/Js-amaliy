@@ -70,6 +70,13 @@
 
 
 //7.Boolean
+//  let A =  4;
+//  let B = 6;
+//  let C = 4;
+//  console.log((A > 0) && (B > 0) && (C > 0));
+
+
+//8.Boolean
  let A =  4;
  let B = 6;
  let C = 4;
