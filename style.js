@@ -38,3 +38,7 @@
 // console.log(a, b, c);
  
 // Uyga vazifa
+//1.Boolean 
+let A =  4;
+console.log(A > 0);
+
