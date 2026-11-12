@@ -90,5 +90,4 @@
 
 //10.Boolean
 
-let son = 46;
-console.log(son % 2 === 0);
+/
