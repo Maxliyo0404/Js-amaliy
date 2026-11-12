@@ -41,7 +41,9 @@
 //1.Boolean 
 // let A =  4;
 // console.log(A > 0);
-//1.Boolean 
+
+//2.Boolean 
 let A =  4;
+let B = 6;
 console.log(A > 0);
 
