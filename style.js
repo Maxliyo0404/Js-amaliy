@@ -11,3 +11,4 @@
 //3.Boolean  
 let A = 6;
 let B = 12;
+console.log();
