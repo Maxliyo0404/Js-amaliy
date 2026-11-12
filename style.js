@@ -24,7 +24,7 @@
 //  let B = 6;
 //  console.log( (A % 2 === 0  && B % 2 === 0) || (A % 2 !== 0  || B % 2 !== 0));
  
-//4.Boolean  
+//6.Boolean  
   let A = 4;
   let B = 6;
   let C = 8;
