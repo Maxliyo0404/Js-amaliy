@@ -9,3 +9,5 @@
 //  console.log(A % 2 !== 0);
 
 //3.Boolean  
+let A = 6;
+let B = 12;
