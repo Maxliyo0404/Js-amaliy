@@ -90,4 +90,10 @@
 
 //10.Boolean
 
-/
+// let son = 26;
+// console.log((son >= 10 && son <= 99) && (son % 2 === 0));
+
+ //11.Boolean
+
+  let son = 26;
+console.log((son >= 10 && son <= 99) && (son % 2 === 0));
