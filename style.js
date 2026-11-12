@@ -1,69 +1,69 @@
 //  Masalalar
 
-//1.Boolean  
+//1.Boolean
 // let A = 12;
 // console.log(A > 0);
- 
-//2.Boolean  
+
+//2.Boolean
 // let A = 10;
 //  console.log(A % 2 !== 0);
 
-//3.Boolean  
+//3.Boolean
 // let A = 6;
 // let B = 2;
 // console.log(A > 2 && B <= 3);
 
-//4.Boolean  
+//4.Boolean
 //  let A = 4;
 //  let B = 6;
 //  let C = 8;
 //  console.log(A <= B && B <= C);
- 
- //5.Boolean  
+
+//5.Boolean
 //  let A = 4;
 //  let B = 6;
 //  console.log( (A % 2 === 0  && B % 2 === 0) || (A % 2 !== 0  || B % 2 !== 0));
- 
-//6.Boolean  
+
+//6.Boolean
 //   let A = 4;
 //   let B = 6;
 //   let C = 8;
 //   console.log(A > 0 && B > 0 && C < 0 );
 
-//7.Boolean 
+//7.Boolean
 // let son = 234;
 // let a = son % 10;
 // let b = ((son % 100) - (son % 10)) / 10;
 // let c = (son -(son % 100)) /100;
 // console.log(a, b, c);
- 
+
 // Uyga vazifa
-//1.Boolean 
+//1.Boolean
 // let A =  4;
 // console.log(A > 0);
 
-//2.Boolean 
+//2.Boolean
 // let A =  4;
 // let B = 6;
 // console.log(A >= 0 || B <- 2);
 
-//3.Boolean 
+//3.Boolean
 // let A =  4;
 // let B = 6;
 // let C = 8;
 // console.log((A < B && B < C) || (C < B && A < B));
 
-//4.Boolean 
+//4.Boolean
 // let A = 3;
 // let B = 5;
 // console.log(A % 2 !== 0 && B % 2 !== 0);
 
-//5.Boolean 
+//5.Boolean
 let A = 2;
 let B = 5;
-console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
+console.log (A % 2 !== 0 && B % 2 !== 0);
 
-//6.Boolean 
+//6.Boolean
 // let A = 2;
 // let B = 5;
 // console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
