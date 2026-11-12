@@ -41,4 +41,7 @@
 //1.Boolean 
 let A =  4;
 console.log(A > 0);
+//1.Boolean 
+let A =  4;
+console.log(A > 0);
 
