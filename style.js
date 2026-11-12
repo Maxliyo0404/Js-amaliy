@@ -11,4 +11,4 @@
 //3.Boolean  
 let A = 6;
 let B = 12;
-console.log();
+console.log(A > 2 && B <= 3);
