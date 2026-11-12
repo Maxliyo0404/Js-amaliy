@@ -47,9 +47,12 @@
 // let B = 6;
 // console.log(A >= 0 || B <- 2);
 
-//2.Boolean 
+//3.Boolean 
 let A =  4;
 let B = 6;
 let C = 8;
 console.log((A < B && B < C) || (C < B && A < B));
 
+//3.Boolean 
+let A =  4;
+let B = 6;
