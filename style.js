@@ -59,11 +59,18 @@
 // console.log(A % 2 !== 0 && B % 2 !== 0);
 
 //5.Boolean
-let A = 2;
-let B = 5;
-console.log (A % 2 !== 0 && B % 2 !== 0);
+// let A = 2;
+// let B = 5;
+// console.log (A % 2 !== 0 && B % 2 !== 0);
 
 //6.Boolean
 // let A = 2;
 // let B = 5;
 // console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
+
+
+//7.Boolean
+ let A =  4;
+ let B = 6;
+ let C = 4;
+ console.log(A >= 0 || B <- 2);
