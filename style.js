@@ -31,5 +31,7 @@
 //   console.log(A > 0 && B > 0 && C < 0 );
 
 //7.Boolean 
-let A = 234;
+let son = 234;
+let a = son % 10;
+console.log(a);
  
