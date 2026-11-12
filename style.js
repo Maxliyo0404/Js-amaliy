@@ -14,8 +14,11 @@
 // console.log(A > 2 && B <= 3);
 
 //4.Boolean  
+//  let A = 4;
+//  let B = 6;
+//  let C = 8;
+//  console.log(A <= B <= C);
+ 
+ //5.Boolean  
  let A = 4;
  let B = 6;
- let C = 8;
- console.log(A <= B <= C);
- 
