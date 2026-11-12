@@ -59,6 +59,6 @@
 // console.log(A % 2 !== 0 && B % 2 !== 0);
 
 //5.Boolean 
-let A = 3;
+let A = 2;
 let B = 5;
 console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
