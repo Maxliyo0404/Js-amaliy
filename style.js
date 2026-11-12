@@ -73,4 +73,4 @@
  let A =  4;
  let B = 6;
  let C = 4;
- console.log(A >= 0 || B <- 2);
+ console.log((A > 0) && (A > 0) && (A > 0));
