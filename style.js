@@ -56,3 +56,4 @@
 //3.Boolean 
 let A =  4;
 let B = 6;
+console.log(A % 2 !== 0 && );
