@@ -33,6 +33,6 @@
 //7.Boolean 
 let son = 234;
 let a = son % 10;
-let b = ((son % 100) - (son % 10) /100)
+let b = ((son % 100) - (son % 10)) / 10;
 console.log(b);
  
