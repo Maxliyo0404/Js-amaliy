@@ -51,5 +51,5 @@
 let A =  4;
 let B = 6;
 let C = 8;
-console.log((A < B && B < C) || (A < B && B < C));
+console.log((A < B && B < C) || (C < B && A < B));
 
