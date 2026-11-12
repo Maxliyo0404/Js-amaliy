@@ -62,3 +62,8 @@
 let A = 2;
 let B = 5;
 console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
+
+//6.Boolean 
+// let A = 2;
+// let B = 5;
+// console.log((A % 2 !== 0 && B % 2 === 0) || (A % 2 === 0 && B % 2 !== 0));
