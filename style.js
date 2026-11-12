@@ -31,9 +31,10 @@
 //   console.log(A > 0 && B > 0 && C < 0 );
 
 //7.Boolean 
-let son = 234;
-let a = son % 10;
-let b = ((son % 100) - (son % 10)) / 10;
-let c = (son -(son % 100)) /100;
-console.log(a, b, c);
+// let son = 234;
+// let a = son % 10;
+// let b = ((son % 100) - (son % 10)) / 10;
+// let c = (son -(son % 100)) /100;
+// console.log(a, b, c);
  
+// Uyga vazifa
