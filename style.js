@@ -337,13 +337,80 @@
 // console.log(son);
 
 // if2-masala
-let son1 = 4;
-let son2 = 6;
-let son3 = 8;
-let musbatSon = 0;
-let manfiySon = 0;
- if () {
+// let a = 4;
+// let b = -6;
+// let c = 8;
+// let musbatSon = 0;
+// let manfiySon = 0;
+//  if (a > 0) {
+//     musbatSon = musbatSon + 1;
+//  } else if(a < 0){
+//     manfiySon = manfiySon + 1;
+//  }
+
+//  if (b > 0) {
+//     musbatSon = musbatSon + 1;
+//  } else if(b < 0){
+//     manfiySon = manfiySon + 1;
+//  }
+
+//  if (c > 0) {
+//     musbatSon = musbatSon + 1;
+//  } else if(c < 0){
+//     manfiySon = manfiySon + 1;
+//  }
+
+//  console.log("Musbat sonlar soni:", musbatSon);
+// console.log("Manfiy sonlar soni:", manfiySon);
+ 
+
+
+// if3-masala
+//  let a = 4;
+//  let b = 6;
+//  let c = 8;
+//  let kattaSon = a;
+//  let kichikSon = a;
+
+//  if (b > 0) {
+//     kattaSon = b;
+//  } 
+//  if (c > 0) {
+//     kattaSon = c;
+//  }
+//  if (b < 0) {
+//     kichikSon = b;
+//  } 
+//  if (c < 0) {
+//     kichikSon = c;
+//  }
+
+// console.log("Eng katta son:", kattaSon);
+// console.log("Eng kichik son:", kichikSon);
+
+
+
+// if4-masala
+// let a = 4;
+// let b = 6;
+// let c = 6;
+// if (a === b) {
+// console.log("Farqli son 3-son (`c`), tartib raqami: 3")
     
- } else {
-    
- }
+// } else if (a === c) {
+//     console.log("Farqli son 2-son (`b`), tartib raqami: 2")
+
+// } else if (b === c) {
+//     console.log("Farqli son 1-son (`a`), tartib raqami: 1")
+// }
+
+// if5-masala
+let x = 6;
+if (x < -2 || x > 2) {
+    let y = 2 * x;
+    console.log("Natija:", y);
+} else {
+     let y = -3 * x;
+     console.log('Natija:', y);
+     
+}
