@@ -222,6 +222,15 @@
 
 
 // 4-masala
+// let a = 4;
+// let b = 6;
+// let c = 8;
+// let V = a * b * c;
+// let S = 2 *(a * b + b * c + a *c);
+//  console.log("Hajmi", V);
+//  console.log("To'la sirti", S);
+
+
+// 5-masala
 let a = 4;
-let b = 6;
-let c = 8;
+let b = 8;
