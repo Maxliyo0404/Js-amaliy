@@ -320,5 +320,5 @@
   let olma1 = X * A;
   let olma2 = Y * B;
   let natija = olma1 + olma2;
-  console.log();
+  console.log("natija :", natija);
   
