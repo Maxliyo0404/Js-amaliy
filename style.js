@@ -186,4 +186,15 @@
 
 
 // 9-masala
-let son = 1239;
+// let son = 1239;
+// let b = ((son - (son % 100)) / 100) % 10;
+
+// console.log(b);
+
+
+// Uyga vazifa 
+
+
+// 1-masala
+let a = 4;
+let b = 8;
