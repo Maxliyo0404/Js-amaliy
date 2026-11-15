@@ -171,3 +171,10 @@
 // let a = (son - (son % 10)) / 10;
 // let b = son % 10;
 // console.log( a + b);
+
+// 7-masala
+ let son = 68;
+ let a = (son - (son % 10)) / 10;
+ let b = son % 10;
+ let pragramma = (b * 10) + a;
+ console.log("In pragramma :", pragramma);
