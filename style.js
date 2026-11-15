@@ -329,6 +329,6 @@
 // if1-masala
 
 let son = 6;
-if () {
-    
+if (son > 0) {
+    son  = son + 1;
 }
