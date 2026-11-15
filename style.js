@@ -337,3 +337,6 @@
 // console.log(son);
 
 // if2-masala
+let son1 = 4;
+let son2 = 6;
+let son3 = 8;
