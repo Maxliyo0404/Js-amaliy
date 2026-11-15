@@ -211,3 +211,17 @@
 // let S = PI * Math.pow(r,2);
 // console.log("Uzunligi:", L);
 // console.log("Yuzasi:", S);
+
+// 3-masala
+
+// let a = 8;
+// let  V = Math.pow(a,3);
+// let  S = 6 * Math.pow(a,2);
+// console.log("Hajmi", V);
+// console.log("To'la sirti", S);
+
+
+// 4-masala
+let a = 4;
+let b = 6;
+let c = 8;
