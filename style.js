@@ -313,12 +313,12 @@
 // console.log("1 kg shokolad 1 kg konfetdan qancha qimmat:", natija);
 
 // 15-masala
-  let X = 4;
-  let A = 4000;
-  let Y = 4;
-  let B = 2000;
-  let olma1 = X * A;
-  let olma2 = Y * B;
-  let natija = olma1 + olma2;
-  console.log("natija :", natija);
+//   let X = 4;
+//   let A = 4000;
+//   let Y = 4;
+//   let B = 2000;
+//   let olma1 = X * A;
+//   let olma2 = Y * B;
+//   let natija = olma1 + olma2;
+//   console.log("natija :", natija);
   
