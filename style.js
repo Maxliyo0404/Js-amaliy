@@ -167,3 +167,7 @@
 // console.log("b ning qiymat :", b);
 
 // 6-masala
+// let son = 48;
+// let a = (son - (son % 10)) / 10;
+// let b = son % 10;
+// console.log( a + b);
