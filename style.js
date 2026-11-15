@@ -257,10 +257,17 @@
 // console.log("Ayirmasi S :", S);
 
 
-// 7-masala
+// 8-masala
 // let L = 25.4;
 // const PI = 3.14;
 // let R = L / (2 * PI);
 // let S = PI * Math.pow(R, 2);
 // console.log("Radiusi R:", R);
 // console.log("Yuzasi S:", S);
+
+// 9-masala
+let x1 = 2;
+let y1 = 4;
+let x2 = 6;
+let y2 = 8;
+let L = Math.sqrt()
