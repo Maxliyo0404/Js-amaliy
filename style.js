@@ -240,3 +240,5 @@
 // 5-masala
 let a = 4;
 let b = 8;
+let c = Math.sqrt((Math.pow(a,2) + Math.pow(b,2)));
+let
