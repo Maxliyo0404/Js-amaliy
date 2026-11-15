@@ -266,8 +266,9 @@
 // console.log("Yuzasi S:", S);
 
 // 9-masala
-let x1 = 2;
-let y1 = 4;
-let x2 = 6;
-let y2 = 8;
-let L = Math.sqrt()
+// let x1 = 2;
+// let y1 = 4;
+// let x2 = 6;
+// let y2 = 8;
+// let L = Math.sqrt(Math.pow(x1 -x2, 2) + Math.pow(y1 - y2, 2));
+// console.log("Masofa L :", L);
