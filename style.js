@@ -327,3 +327,8 @@
 //DARSDA ISHLANISHI KERAK BO’LGAN MASALALAR
 
 // if1-masala
+
+let son = 6;
+if () {
+    
+}
