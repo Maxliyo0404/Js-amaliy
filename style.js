@@ -334,3 +334,4 @@ if (son > 0) {
 }else{
     son = son - 2;
 }
+console.log(son);
