@@ -322,3 +322,8 @@
 //   let natija = olma1 + olma2;
 //   console.log("natija :", natija);
   
+
+
+//DARSDA ISHLANISHI KERAK BO’LGAN MASALALAR
+
+// if1-masala
