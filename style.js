@@ -317,3 +317,7 @@
   let A = 4000;
   let Y = 4;
   let B = 2000;
+  let olma1 = X * A;
+  let olma2 = Y * B;
+  console.log();
+  
