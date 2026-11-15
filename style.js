@@ -203,3 +203,11 @@
 // console.log("Yuzi S :", S);
 // console.log("Pirimetri P :", P);
 
+// 2-masala
+// let d = 44;
+// const PI = 3.14;
+// let L = PI * d;
+// let r = d / 2;
+// let S = PI * Math.pow(r,2);
+// console.log("Uzunligi:", L);
+// console.log("Yuzasi:", S);
