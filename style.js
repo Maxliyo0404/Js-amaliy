@@ -196,10 +196,10 @@
 
 
 // 1-masala
-let a = 4;
-let b = 8;
-let S = a * b;
-let P = 2 * (a + b);
-console.log("Yuzi S :", S);
-console.log("Pirimetri P :", P);
+// let a = 4;
+// let b = 8;
+// let S = a * b;
+// let P = 2 * (a + b);
+// console.log("Yuzi S :", S);
+// console.log("Pirimetri P :", P);
 
