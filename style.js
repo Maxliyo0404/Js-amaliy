@@ -237,10 +237,18 @@
 // let M = (a +b ) / 2;
 // console.log("o'rta arfimetik M :", M);
 
-// 5-masala
-let a = 4;
-let b = 8;
-let c = Math.sqrt((Math.pow(a,2) + Math.pow(b,2)));
-let P = a + b + c;
-console.log("Gipotenuzasi c" , c);
-console.log("Pirimetri P :", P);
+// 6-masala
+// let a = 4;
+// let b = 8;
+// let c = Math.sqrt((Math.pow(a,2) + Math.pow(b,2)));
+// let P = a + b + c;
+// console.log("Gipotenuzasi c" , c);
+// console.log("Pirimetri P :", P);
+
+// 7-masala
+let r1 = 4;
+let r2 = 8;
+const PI = 3.14;
+let S1 = PI * r1;
+let S2 = PI * r2;
+let S = PI * (Math.pow(r1, 2) - Math.pow(r2, 2));
