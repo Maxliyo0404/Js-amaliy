@@ -154,4 +154,4 @@
 let X = 2;
 let a = 6000;
 let y = 4;
-let natija =
+let natija = a / X;
