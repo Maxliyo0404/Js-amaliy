@@ -340,3 +340,10 @@
 let son1 = 4;
 let son2 = 6;
 let son3 = 8;
+let musbatSon = 0;
+let manfiySon = 0;
+ if () {
+    
+ } else {
+    
+ }
