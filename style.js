@@ -331,4 +331,6 @@
 let son = 6;
 if (son > 0) {
     son  = son + 1;
+}else{
+    son = son - 2;
 }
