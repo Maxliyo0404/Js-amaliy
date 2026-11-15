@@ -287,12 +287,26 @@
 
 
 // 12-masala
-let A = 4;
-let a = Math.pow(A, 3);
-let b = Math.pow(A, 6);
-let c = Math.pow(A, 9);
-let  d= Math.pow(A, 15);
-console.log("A ning 3-darajasi:", a);
-console.log("A ning 6-darajasi:", b);
-console.log("A ning 9-darajasi:", c);
-console.log("A ning 15-darajasi:", d)
+// let A = 4;
+// let a = Math.pow(A, 3);
+// let b = Math.pow(A, 6);
+// let c = Math.pow(A, 9);
+// let  d= Math.pow(A, 15);
+// console.log("A ning 3-darajasi:", a);
+// console.log("A ning 6-darajasi:", b);
+// console.log("A ning 9-darajasi:", c);
+// console.log("A ning 15-darajasi:", d)
+
+// 13-masala
+// let Tf = 82;
+// let Tc = (Tf-32) * 5 / 9;
+// console.log("Tempuratura qiymati:", Tc);
+
+// 14-masala
+let X = 6;
+let A = 4000;
+let Y = 4;
+let B = 2000;
+let shokalod = A / X ;
+let konfet = B / Y;
+let natija = shokalod- konfet
