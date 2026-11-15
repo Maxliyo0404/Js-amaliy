@@ -246,9 +246,20 @@
 // console.log("Pirimetri P :", P);
 
 // 7-masala
-let r1 = 4;
-let r2 = 8;
+// let r1 = 4;
+// let r2 = 8;
+// const PI = 3.14;
+// let S1 = PI * r1;
+// let S2 = PI * r2;
+// let S = PI * (Math.pow(r1, 2) - Math.pow(r2, 2));
+// console.log("Yuzi S1 :", S1);
+// console.log("Yuzi S2 :", S2);
+// console.log("Ayirmasi S :", S);
+
+
+// 7-masala
+let L = 8;
 const PI = 3.14;
-let S1 = PI * r1;
-let S2 = PI * r2;
-let S = PI * (Math.pow(r1, 2) - Math.pow(r2, 2));
+let R = L / (2 * PI);
+let S = 
+console.log();
