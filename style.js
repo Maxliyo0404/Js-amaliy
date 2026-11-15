@@ -258,9 +258,9 @@
 
 
 // 7-masala
-let L = 8;
-const PI = 3.14;
-let R = L / (2 * PI);
-let S = PI * Math.pow(R, 2);
-console.log("Radiusi R:", R);
-console.log("Yuzasi S:", S);
+// let L = 25.4;
+// const PI = 3.14;
+// let R = L / (2 * PI);
+// let S = PI * Math.pow(R, 2);
+// console.log("Radiusi R:", R);
+// console.log("Yuzasi S:", S);
