@@ -311,3 +311,9 @@
 // let konfet = B / Y;
 // let natija = shokalod- konfet;
 // console.log("1 kg shokolad 1 kg konfetdan qancha qimmat:", natija);
+
+// 15-masala
+  let X = 4;
+  let A = 4000;
+  let Y = 4;
+  let B = 2000;
