@@ -241,4 +241,6 @@
 let a = 4;
 let b = 8;
 let c = Math.sqrt((Math.pow(a,2) + Math.pow(b,2)));
-let
+let P = a + b + c;
+console.log("Gipotenuzasi c" , c);
+console.log("Pirimetri P :", P);
