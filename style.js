@@ -145,7 +145,13 @@
 // let G = Math.sqrt(a * b);
 // console.log("O'rta geometrik (G):",G);
 
-// 2-masala
-let x = 6;
-let y = (3 * (x ** 6) ) - (6 * (x ** 2) ) - 7;
-console.log("y ning qiymati:",y);
+// 3-masala
+// let x = 6;
+// let y = 3 * Math.pow(x, 6) - 6 * Math.pow(x, 2) - 7
+// console.log("y ning qiymati:",y);
+
+// 3-masala
+let X = 2;
+let a = 6000;
+let y = 4;
+let natija =
