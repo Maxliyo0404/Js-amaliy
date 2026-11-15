@@ -232,5 +232,11 @@
 
 
 // 5-masala
+// let a = 4;
+// let b = 8;
+// let M = (a +b ) / 2;
+// console.log("o'rta arfimetik M :", M);
+
+// 5-masala
 let a = 4;
 let b = 8;
