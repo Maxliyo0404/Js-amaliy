@@ -303,10 +303,11 @@
 // console.log("Tempuratura qiymati:", Tc);
 
 // 14-masala
-let X = 6;
-let A = 4000;
-let Y = 4;
-let B = 2000;
-let shokalod = A / X ;
-let konfet = B / Y;
-let natija = shokalod- konfet
+// let X = 4;
+// let A = 4000;
+// let Y = 4;
+// let B = 2000;
+// let shokalod = A / X ;
+// let konfet = B / Y;
+// let natija = shokalod- konfet;
+// console.log("1 kg shokolad 1 kg konfetdan qancha qimmat:", natija);
