@@ -178,3 +178,12 @@
 //  let b = son % 10;
 //  let pragramma = (b * 10) + a;
 //  console.log("In pragramma :", pragramma);
+
+// 8-masala
+// let son = 469;
+// let a = (son - (son % 100)) / 100;
+// console.log("Yuzlar xonasidagi raqam :", a);
+
+
+// 9-masala
+let son = 1239;
