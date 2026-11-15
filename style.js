@@ -154,4 +154,6 @@
 let X = 2;
 let a = 6000;
 let y = 4;
-let natija = a / X;
+let natija1 = a / X;
+let natija2 = natija1 *y;
+console.log(natija2);
