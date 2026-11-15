@@ -272,3 +272,27 @@
 // let y2 = 8;
 // let L = Math.sqrt(Math.pow(x1 -x2, 2) + Math.pow(y1 - y2, 2));
 // console.log("Masofa L :", L);
+
+
+// 10-masala
+// let A = 4;
+// let B = 6;
+// let C = 8;
+// let a =   chala tushunmadim
+
+// 11-masala
+// let x = 8;
+// let y = 4 * Math.pow(x- 3, 6) -7 * Math.pow(x-3, 3) + 2;
+// console.log("Funksiyaning qiymat :", y);
+
+
+// 12-masala
+let A = 4;
+let a = Math.pow(A, 3);
+let b = Math.pow(A, 6);
+let c = Math.pow(A, 9);
+let  d= Math.pow(A, 15);
+console.log("A ning 3-darajasi:", a);
+console.log("A ning 6-darajasi:", b);
+console.log("A ning 9-darajasi:", c);
+console.log("A ning 15-darajasi:", d)
