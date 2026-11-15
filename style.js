@@ -161,3 +161,7 @@
 // 5-masala
 let A = 4;
 let B = 6;
+let a = B;
+let b = A;
+console.log("a ning qiymat :", a);
+console.log("b ning qiymat :", b);
