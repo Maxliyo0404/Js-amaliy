@@ -95,5 +95,57 @@
 
  //11.Boolean
 
-  let son = 263;
-console.log((son >= 100 && son <= 999) && (son % 2 !== 0));
+//   let son = 263;
+// console.log((son >= 100 && son <= 999) && (son % 2 !== 0));
+
+
+//12.Boolean
+//  let A = 6;
+//  let B = 4;
+//  let C = -6;
+//  console.log((A === -B) || (A === -C) || (B === -B) );
+ 
+
+ //13.Boolean
+//  let son = 567 ;
+//  let a = (son - (son % 100)) / 100;
+//  let b =  ((son % 100) - (son % 10)) /10;
+//  let c = son % 10;
+//  console.log(a < b && b < c);
+ 
+//  14.Boolean
+//   let son =  789;
+//   let a = (son - (son % 100)) / 100;
+//   let b =  ((son % 100) - (son % 10)) /10;
+//   let c = son % 10;
+//   console.log((a < b && b < c)|| (a > b && b > c));
+ 
+ 
+//  15.Boolean
+// let son = 232;
+// let a = (son - (son % 100)) /100;
+// let b = son % 10;
+// console.log(a === b);
+
+
+
+//Darsdagi masalalar
+
+// 1-masala
+// let R = 4;
+// const PI = 3.14;
+// let L = 2 * PI * R;
+// let S = PI * (R * R);
+// console.log("Doira uzunligi L :", L);
+// console.log("Doira yuzasi S :", S);
+
+// 2-masala
+// let a = 4;
+// let b = 6;
+// let G = Math.sqrt(a * b);
+// console.log("O'rta geometrik (G):",G);
+
+// 2-masala
+let x = 6;
+let y = (3 * (x ** 6) ) - (6 * (x ** 2) ) - 7;
+console.log("y ning qiymati:",y);
