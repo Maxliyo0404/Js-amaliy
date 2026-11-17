@@ -680,5 +680,8 @@
            let x = 4;
            if (x <= 0) {
             console.log("-x:");
-          
+           }
+           if (0 < x < 2) {
+             console.log("x**2:");
+
            }
