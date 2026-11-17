@@ -655,7 +655,14 @@
       //  console.log("b ning qiymati:", b);
       //  console.log("c ning qiymati:", c);
 
-      //if14-masala
-        let a = 10;
-        let b = 9;
+      //if15-masala
+        let a = 4;
+        let b = 8;
         let c = 8;
+        let d = 8;
+        if (b === c && c === d ) {
+          console.log("Tartib raqami : 1");
+          
+        } else {
+          
+        }
