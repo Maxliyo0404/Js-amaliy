@@ -688,5 +688,5 @@
             else if (x >= 2) {
               natija = 4;
            }
-           console.log("Funksiyani qiymatini:", natija);
+           console.log(`Funksiyani natijasi: ${natija}`);
            
