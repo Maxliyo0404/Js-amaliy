@@ -541,8 +541,33 @@
   
 
   //if8-masala
-   let A = 58;
-   let B = 43;
-   if(A !== B){
-    
-   }
+  //  let A = 58;
+  //  let B = 38;
+  //  if(A !== B){
+  //     let natija = A + B;
+  //     A = natija;
+  //     B = natija;
+  //  }else {
+  //      A = 0;
+  //      B = 0;
+       
+  //  }
+  //  console.log("A ning qiymati", A);
+  //  console.log("B ning qiymati", B);
+
+
+    //if9-masala
+  //  let A = 78;
+  //  let B = 98;
+  //  if(A !== B){
+  //     let katta = Math.max(A, B);
+  //     A = katta;
+  //     B = katta;
+  //  }else {
+  //      A = 0;
+  //      B = 0;
+       
+  //  }
+  //  console.log("A ning qiymati", A);
+  //  console.log("B ning qiymati", B);
+   
