@@ -689,4 +689,12 @@
           //     natija = 4;
           //  }
           //  console.log(`Funksiyani natijasi: ${natija}`);
-           
+
+          
+  //﻿DARSDA KO’RILISHI KERAK BO’LGAN MASALALAR
+        
+
+  //For1v
+
+  let n = 6;
+  let k = 8;
