@@ -677,16 +677,16 @@
 
            //if15-masala
 
-           let x = 1;
-           let natija;
-           if (x <= 0) {
-             natija = -x
-           }
-           else if (x > 0 && x < 2) {
-            natija =  x**2;
-           }
-            else if (x >= 2) {
-              natija = 4;
-           }
-           console.log(`Funksiyani natijasi: ${natija}`);
+          //  let x = 1;
+          //  let natija;
+          //  if (x <= 0) {
+          //    natija = -x
+          //  }
+          //  else if (x > 0 && x < 2) {
+          //   natija =  x**2;
+          //  }
+          //   else if (x >= 2) {
+          //     natija = 4;
+          //  }
+          //  console.log(`Funksiyani natijasi: ${natija}`);
            
