@@ -677,14 +677,16 @@
 
            //if15-masala
 
-           let x = 8;
+           let x = 1;
            let natija;
            if (x <= 0) {
              natija = -x
            }
-           if (x > 0 && x < 2) {
+           else if (x > 0 && x < 2) {
             natija =  x**2;
            }
-           if (x >= 2) {
+            else if (x >= 2) {
               natija = 4;
            }
+           console.log("Funksiyani qiymatini:", natija);
+           
