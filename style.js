@@ -613,6 +613,9 @@
           console.log("Eng katta sonlar :", b, "va" , c);
           
         } else if(b <= a && b <= c) {
-              console.log("Eng katta sonlar :", a, "va" , c);
+          console.log("Eng katta sonlar :", a, "va" , c);
+
+        }else{
+        console.log("Eng katta sonlar :", b, "va" , a);
 
         }
