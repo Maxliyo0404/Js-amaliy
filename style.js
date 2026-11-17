@@ -619,3 +619,20 @@
       //   console.log("Eng katta sonlar :", b, "va" , a);
 
       //   }
+
+      //if13-masala
+       let a = 4;
+       let b = 6;
+       let c = 8;
+       if (a <= b && b <= c) {
+         a = a * 2;
+         b = b * 2;
+         c = c * 2;
+       } else {
+         a = -a;
+         b = -b;
+         c = -c;
+       }
+       console.log("A ning qiymati:", A);
+console.log("B ning qiymati:", B);
+console.log("C ning qiymati:", C);
