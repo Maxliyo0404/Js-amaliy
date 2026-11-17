@@ -588,4 +588,31 @@
     // }
     // console.log("Eng kicikik son", kichikSon);
     
-    
+     //if11-masala
+      // let a = 4;
+      // let b = 6;
+      // let c = 8;
+      // let ortaSon;
+      // if (a <= b && b <= c ) {
+      //   ortaSon = b;
+      // }
+      // else if(b <= a && a <= c){
+      //      ortaSon = a;
+      // }
+      // else{
+      //   ortaSon = c;
+      // }
+      // console.log("O'rta Son : ", ortaSon);
+      
+
+       //if12-masala
+       let a = 4;
+       let b = 6;
+       let c = 8;
+        if (a <= b && a <= c) {
+          console.log("Eng katta sonlar :", b, "va" , c);
+          
+        } else if(b <= a && b <= c) {
+              console.log("Eng katta sonlar :", a, "va" , c);
+
+        }
