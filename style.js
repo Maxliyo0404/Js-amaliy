@@ -571,3 +571,16 @@
   //  console.log("A ning qiymati", A);
   //  console.log("B ning qiymati", B);
    
+
+      //if10-masala
+    let a = 4;
+    let b = 6;
+    let c = 8;
+    let kichikSon;
+    if (a <= b && a <= c) {
+       kichikSon = a;
+    }
+    else if (b <= a && b <= c){
+
+    }
+    
