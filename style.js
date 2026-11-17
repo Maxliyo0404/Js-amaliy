@@ -677,14 +677,14 @@
 
            //if15-masala
 
-           let x = 4;
+           let x = 8;
+           let natija;
            if (x <= 0) {
-            console.log("-x:");
+             natija = -x
            }
-           if (0 < x < 2) {
-             console.log("x**2:");
+           if (x > 0 && x < 2) {
+            natija =  x**2;
            }
            if (x >= 2) {
-               console.log("-x:");
-
+              natija = 4;
            }
