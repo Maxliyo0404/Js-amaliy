@@ -654,3 +654,8 @@
       //  console.log("a ning qiymati:", a);
       //  console.log("b ning qiymati:", b);
       //  console.log("c ning qiymati:", c);
+
+      //if14-masala
+        let a = 10;
+        let b = 9;
+        let c = 8;
