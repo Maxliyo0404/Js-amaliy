@@ -405,12 +405,144 @@
 // }
 
 // if5-masala
-let x = 6;
-if (x < -2 || x > 2) {
-    let y = 2 * x;
-    console.log("Natija:", y);
-} else {
-     let y = -3 * x;
-     console.log('Natija:', y);
+// let x = 1;
+// if (x < -2 || x > 2) {
+//     let y = 2 * x;
+//     console.log("Natija:", y);
+// } else {
+//      let y = -3 * x;
+//      console.log('Natija:', y);
      
-}
+// }
+
+// if6-masala
+// let son = 6;
+// if (son === 0) {
+//     console.log("Nol:", son);
+    
+// }else if(son > 0){
+//   if(son % 2 === 0){
+//     console.log("Musbat juft:", son);
+//   }else{
+//      console.log("Musbat toq:", son);
+//   }
+// }
+// else if(son < 0){
+//   if(son % 2 === 0){
+//     console.log("Manfiy juft:", son);
+//   }else{
+//      console.log("Manfiy toq:", son);
+//   }
+// }
+
+
+
+//UYGA VAZIFA
+
+// if1-masala
+// let son = 6;
+// if (son > 0) {
+//    son = son + 1;
+ 
+// } 
+// console.log("Son :", son);
+
+// if2-masala
+// let son = 4;
+// if (son === 0) {
+//     son = son + 10;
+//     console.log("Nolga teng:",son);
+    
+// } else if( son > 0 ) {
+//     son = son + 1;
+//     console.log("MusbatSon:", son);
+    
+// }
+//  else if( son < 0 ) {
+//     son = son  - 2;
+//     console.log("ManfiySon:", son);
+    
+// }
+
+
+// if3-masala
+// let a = 3;
+// let b = -5;
+// let c = 4;
+// let musbatSoni = 0;
+// if (a > 0) {
+//     musbatSoni++;
+    
+// } if (b > 0){
+//     musbatSoni++;
+// }
+//  if (c > 0){
+//    musbatSoni++;
+// }
+// console.log("Musbat sonlar soni:", musbatSoni);
+
+
+ //if4-masala
+//  let a = 43;
+//  let b = 43;
+//  if (a > b) {
+//     console.log("Kattason:", a);
+    
+//  }else if(b > a){
+//   console.log("Kattason:", b);
+//  }else {
+//     console.log("Ikkala son teng");
+// }
+
+ //if5-masala
+//   let a = 33;
+//   let b = 43;
+//   if (a < b) {
+//   console.log("Kichik sonning tartib raqami: 1 (birinchi son kichik)");
+//   } else if(b < a) {
+//     console.log("Kichik sonning tartib raqami: 2 (ikkinchi son kichik)");
+//   }else {
+//      console.log("Ikkala son teng");
+//  }
+
+//if6-masala
+//   let a = 38;
+//   let b = 43;
+//   let kattaSon;
+//   let kichikSon;
+//   if (a > b) {
+//     kattaSon = a;
+//     kichikSon = b
+//      console.log("Katta son:", kattaSon);
+//      console.log("Kichik son:", kichikSon);
+//   } else if (b > a) {
+//     kattaSon = b;
+//     kichikSon = a;
+//     console.log("Katta son:", kattaSon);
+//     console.log("Kichik son:", kichikSon);
+// } 
+// else {
+
+//     console.log("Ikkala son o'zaro teng:", a, "va", b);
+// }
+
+ 
+//if7-masala
+  // let A = 58;
+  // let B = 43;
+
+  // if (A > B) {
+  //   let temp = A;
+  //   A = B;
+  //   B = temp;
+  // } 
+  // console.log("A teng", A);
+  // console.log("B teng", B);
+  
+
+  //if8-masala
+   let A = 58;
+   let B = 43;
+   if(A !== B){
+    
+   }
