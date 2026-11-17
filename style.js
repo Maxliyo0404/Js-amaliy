@@ -606,16 +606,16 @@
       
 
        //if12-masala
-       let a = 4;
-       let b = 6;
-       let c = 8;
-        if (a <= b && a <= c) {
-          console.log("Eng katta sonlar :", b, "va" , c);
+      //  let a = 4;
+      //  let b = 6;
+      //  let c = 8;
+      //   if (a <= b && a <= c) {
+      //     console.log("Eng katta sonlar :", b, "va" , c);
           
-        } else if(b <= a && b <= c) {
-          console.log("Eng katta sonlar :", a, "va" , c);
+      //   } else if(b <= a && b <= c) {
+      //     console.log("Eng katta sonlar :", a, "va" , c);
 
-        }else{
-        console.log("Eng katta sonlar :", b, "va" , a);
+      //   }else{
+      //   console.log("Eng katta sonlar :", b, "va" , a);
 
-        }
+      //   }
