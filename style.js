@@ -656,13 +656,21 @@
       //  console.log("c ning qiymati:", c);
 
       //if15-masala
-        let a = 4;
-        let b = 8;
+        let a = 8;
+        let b = 4;
         let c = 8;
         let d = 8;
         if (b === c && c === d ) {
           console.log("Tartib raqami : 1");
           
-        } else {
-          
+        } else if(a === c && c === d){
+                  console.log("Tartib raqami : 2");
+
+        }
+         else if(a === b && b === d){
+                  console.log("Tartib raqami : 3");
+
+        }else{
+          console.log("Tartib raqami : 4");
+
         }
