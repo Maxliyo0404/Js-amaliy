@@ -674,3 +674,11 @@
         //   console.log("Tartib raqami : 4");
 
         // }
+
+           //if15-masala
+
+           let x = 4;
+           if (x <= 0) {
+            console.log("-x:");
+          
+           }
