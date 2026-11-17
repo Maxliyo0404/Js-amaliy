@@ -573,14 +573,19 @@
    
 
       //if10-masala
-    let a = 4;
-    let b = 6;
-    let c = 8;
-    let kichikSon;
-    if (a <= b && a <= c) {
-       kichikSon = a;
-    }
-    else if (b <= a && b <= c){
-
-    }
+    // let a = 2;
+    // let b = 4;
+    // let c = 1;
+    // let kichikSon;
+    // if (a <= b && a <= c) {
+    //    kichikSon = a;
+    // }
+    // else if (b <= a && b <= c){
+    //     kichikSon = b;
+    // }
+    // else  {
+    //     kichikSon = c;
+    // }
+    // console.log("Eng kicikik son", kichikSon);
+    
     
