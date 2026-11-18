@@ -720,10 +720,15 @@
     
   // }
 
-  //For1v
+  //For2v
 
   // let narx = 3000;
   // for(let i = 1; i <= 10; i++){
   //   console.log(i + "." + "kg = "  + (i * narx));
     
   // }
+
+   //For3v
+   let n = 3;
+   let S = 0;
+   
