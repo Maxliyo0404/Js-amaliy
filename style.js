@@ -719,3 +719,8 @@
   //   console.log(k);
     
   // }
+
+  //For1v
+
+  let narx = 3000;
+  
