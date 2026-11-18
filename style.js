@@ -740,4 +740,10 @@
    //For4v
 
    let N = 5;
-   for(let i = 1; ) 
+   let S = 0
+   for(let i = 1; i <= N; i++){
+     let natija =i ** (N- i + 1);
+   
+    S = S + qism;
+   }
+    console.log("yig'indi S :", S);
