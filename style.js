@@ -739,11 +739,30 @@
 
    //For4v
 
-   let N = 5;
-   let S = 0
-   for(let i = 1; i <= N; i++){
-     let natija =i ** (N- i + 1);
+  //  let N = 5;
+  //  let S = 0
+  //  for(let i = 1; i <= N; i++){
+  //    let natija =i ** (N- i + 1);
    
-    S = S + qism;
-   }
-    console.log("yig'indi S :", S);
+  //   S = S + natija;
+  //  }
+  //   console.log("yig'indi S :", S);
+
+
+  //For5v
+  // let a = 2;
+  // let b = 10;
+  // for(let i = a; i <= b ; i++){
+  //  for(let son = 1 ; son <=i; son++){
+  //   console.log(i);
+    
+  //  }
+  //   }
+   
+    
+  
+  //For6v
+  let n = 25;
+  for(let i = 1; i <= n; i++ ){
+    
+  }
