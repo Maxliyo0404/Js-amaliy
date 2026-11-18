@@ -762,7 +762,10 @@
     
   
   //For6v
-  let n = 25;
+  let n = 125;
   for(let i = 1; i <= n; i++ ){
-    
+    if (n % i === 0 && i % 2 !== 0) {
+      console.log(i);
+      
+    }
   }
