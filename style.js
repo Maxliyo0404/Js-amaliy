@@ -736,3 +736,8 @@
   //  }
   //  console.log("Yig;indi (S) :", S);
    
+
+   //For4v
+
+   let N = 5;
+    
