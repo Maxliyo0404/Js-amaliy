@@ -731,4 +731,8 @@
    //For3v
    let n = 3;
    let S = 0;
+   for(let i = n; i <= 2 * n; i++){
+    S = S + (i ** 2);
+   }
+   console.log();
    
