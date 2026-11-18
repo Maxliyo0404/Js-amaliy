@@ -722,5 +722,8 @@
 
   //For1v
 
-  let narx = 3000;
-  
+  // let narx = 3000;
+  // for(let i = 1; i <= 10; i++){
+  //   console.log(i + "." + "kg = "  + (i * narx));
+    
+  // }
