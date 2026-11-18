@@ -690,12 +690,28 @@
           //  }
           //  console.log(`Funksiyani natijasi: ${natija}`);
 
-          
+      
+     let cards = document.getElementById("cards");
+     
+     for(let i = 1; i <= 10; i++){
+      cards.innerHTML +=`
+      `
+     }
+
+
+
+
+
+
+
   //﻿DARSDA KO’RILISHI KERAK BO’LGAN MASALALAR
         
 
   //For1v
 
-  let n = 6;
-  let k = 8;
-  for(let i = 1; i <= n; i++;)
+  // let n = 12;
+  // let k = 9;
+  // for(let i = 1; i <= n; i++){
+  //   console.log(k);
+    
+  // }
