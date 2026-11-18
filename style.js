@@ -691,16 +691,16 @@
           //  console.log(`Funksiyani natijasi: ${natija}`);
 
       
-     let cards = document.getElementById("cards");
+    //  let cards = document.getElementById("cards");
      
-     for(let i = 1; i <= 15; i++){
-      cards.innerHTML +=`
-      <div class="card">
-        <h1>Salom dunyo</h1>
-        <p>Lorem ipsum dolor sit.</p>
-      </div>
-      `
-     }
+    //  for(let i = 1; i <= 15; i++){
+    //   cards.innerHTML +=`
+    //   <div class="card">
+    //     <h1>Salom dunyo</h1>
+    //     <p>Lorem ipsum dolor sit.</p>
+    //   </div>
+    //   `
+    //  }
 
 
 
