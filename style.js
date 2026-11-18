@@ -734,5 +734,5 @@
    for(let i = n; i <= 2 * n; i++){
     S = S + (i ** 2);
    }
-   console.log();
+   console.log("Yig;indi (S) :", S);
    
