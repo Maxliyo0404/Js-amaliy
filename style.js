@@ -951,3 +951,13 @@
   // console.log(calc(7, 8,"+"));
   // console.log(calc(10, 15,"%"));
   
+  //Func8
+  // function  isEven(K){
+  //  if (K % 2 === 0) {
+  //    return true;
+  //  } else {
+  //   return false
+  //  }
+  // }
+  // console.log(isEven(10));
+  
