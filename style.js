@@ -803,5 +803,8 @@ function  sum(n) {
 for(let i = 0; i <= n; i++){
  s = s + i
 }
-
-}sum();
+return s;
+}
+console.log(sum(5));
+console.log(sum(10));
+;
