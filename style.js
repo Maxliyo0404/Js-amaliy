@@ -819,4 +819,9 @@
 
 //  }
 //  console.log(isSquare(10));
- 
+  //  function isSquare(k){
+  //   let a = Math.sqrt(k);
+  //   return Number.isInteger(a);
+  //  }
+  //  console.log(isSquare(10));
+   
