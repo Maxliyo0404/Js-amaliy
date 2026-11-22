@@ -874,7 +874,9 @@
    //Func2.
 
    function mean(a, b){
-
+    let son = (a + b)/ 2;
+    let son2 = Math.sqrt(a * b);
+    return {son, son2}
    }
    console.log( mean(12, 48));
    
