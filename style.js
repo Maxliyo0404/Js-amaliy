@@ -871,4 +871,10 @@
     // console.log(power(3, 5));
     
 
-  
+   //Func2.
+
+   function mean(a, b){
+
+   }
+   console.log( mean(12, 48));
+   
