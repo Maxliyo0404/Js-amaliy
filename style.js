@@ -967,3 +967,13 @@
   //  console.log(isEven(10));
   //  console.log(isEven(3));
    
+  //Func9
+
+  // function sortABC(a, b, c){
+  //  let min = Math.min(a, b, c);
+  //  let max = Math.max(a, b, c);
+  //  let mid = a + b + c - min - max;
+  //  return [min, mid, max]
+  // }
+  // console.log(sortABC(10, 5, 8));
+  
