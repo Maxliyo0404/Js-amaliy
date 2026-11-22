@@ -977,3 +977,14 @@
   // }
   // console.log(sortABC(10, 5, 8));
   
+
+  //Func10.
+   function isPowerN(K, N){
+     if (condition) {
+      
+     } else {
+      
+     }
+   }
+   console.log( isPowerN(8, 10));
+   
