@@ -775,3 +775,14 @@
   // while (let i = 1) {
     
   // }
+  
+//﻿DARSDA KO’RILISHI KERAK BO’LGAN MASALALA
+
+
+//Func1.
+function restange(a, b){
+  let yuza  = a * b;
+  let piremetr = 2 * (a + b);
+  return [yuza , piremetr];  
+
+}
