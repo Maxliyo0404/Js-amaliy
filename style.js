@@ -798,13 +798,15 @@
 // console.log(triangle(6));
 
 //Func3.
-function  sum(n) {
-  let s = 0;
-for(let i = 0; i <= n; i++){
- s = s + i
-}
-return s;
-}
-console.log(sum(5));
-console.log(sum(10));
+
 ;
+function sum(n){
+  let s = 0;
+  for(let i = 1; i <= n; i++){
+    s = s + i;
+  }
+  return s;
+}
+console.log(sum(7));
+console.log(sum(27));
+
