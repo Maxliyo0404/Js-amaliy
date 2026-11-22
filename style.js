@@ -788,9 +788,20 @@
 
 // }
 // console.log(restange(6, 9));
+
+//Func2.
 // function  triangle(a){
 //   let yuza = Math.trunc((a ** 2 * Math.sqrt(3)) / 4);
 //   let piremetri = 3 * a;
 //   return{ yuza, piremetri}; 
 // }
 // console.log(triangle(6));
+
+//Func3.
+function  sum(n) {
+  let s = 0;
+for(let i = 0; i <= n; i++){
+ s = s + i
+}
+
+}sum();
