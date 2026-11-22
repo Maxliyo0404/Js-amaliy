@@ -828,9 +828,9 @@
 
   //Func5
    
-  function digitCount(k){
-   return String(k).length;
-  }
-  console.log(  digitCount(8791));
-  console.log( typeof digitCount(8791));
+  // function digitCount(k){
+  //  return String(k).length;
+  // }
+  // console.log(  digitCount(8791));
+  // console.log( typeof digitCount(8791));
   
