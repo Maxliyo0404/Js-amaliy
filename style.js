@@ -918,7 +918,7 @@
         //  }
         //  console.log(areaCircle(4));
          
- //Func5.
+ //Func6.
  function  sumRange(A, B) {
 
   if (A > B) {
