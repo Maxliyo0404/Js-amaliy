@@ -980,7 +980,8 @@
 
   //Func10.
    function isPowerN(K, N){
-     if (condition) {
+    let son = K > N;
+     if () {
       
      } else {
       
