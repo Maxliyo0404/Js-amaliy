@@ -834,3 +834,16 @@
   // console.log(  digitCount(8791));
   // console.log( typeof digitCount(8791));
   
+
+  //Func6
+
+  function getDigitSum(n){
+    let son = String(n);
+    let sum = 0;
+    for(let i = 0; i < son.length; i++){
+      sum = sum + Number(son[i]);
+    }
+    return sum;
+  }
+  console.log(getDigitSum (456) );
+  
