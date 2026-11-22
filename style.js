@@ -809,6 +809,14 @@
 // console.log(sum(27));
 
 //Func4. 
- function isSquare(k){
-  
- }
+//  function isSquare(k){
+//   let a = Math.sqrt(k);
+//   if( a % 1 === 0){
+//     return true;
+//   }else{
+//     return false;
+//   }
+
+//  }
+//  console.log(isSquare(10));
+ 
