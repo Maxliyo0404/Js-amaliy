@@ -918,3 +918,7 @@
         //  }
         //  console.log(areaCircle(4));
          
+ //Func5.
+ function  sumRange(A, B) {
+  
+ }
