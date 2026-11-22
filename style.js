@@ -909,3 +909,12 @@
     //  }
     //  console.log(numberOfRoots (1, -6, 9));
     
+         //Func4.
+
+        //  function areaCircle(R){
+        //   let PI = 3.14;
+        //  let S = Math.trunc(PI * R ** 2);
+        //  return S;
+        //  }
+        //  console.log(areaCircle(4));
+         
