@@ -788,9 +788,9 @@
 
 // }
 // console.log(restange(6, 9));
-function  triangle(a){
-  let yuza = (a ** 2 * Math.sqrt(3)) / 4;
-  let piremetri = 3 * a;
-  return{ yuza, piremetri} 
-}
-console.log(triangle(6));
+// function  triangle(a){
+//   let yuza = Math.trunc((a ** 2 * Math.sqrt(3)) / 4);
+//   let piremetri = 3 * a;
+//   return{ yuza, piremetri}; 
+// }
+// console.log(triangle(6));
