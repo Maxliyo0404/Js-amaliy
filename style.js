@@ -848,11 +848,27 @@
   // console.log(getDigitSum (456) );
     
 
-  function raqamQosh(n){
-    let sum = 0;
-    while (n > 0) {
-      sum += n % 10;
-      n = Math.trunc(n / 10);
-    }
-  }
+  // function raqamQosh(n){
+  //   let sum = 0;
+  //   while (n > 0) {
+  //     sum += n % 10;
+  //     n = Math.trunc(n / 10);
+  //   }
+  //   return sum;
+  // }
+  // console.log(raqamQosh(918));
+  
+    //Func7  va Func8ni tushunmadimmmmmmmmm
+
+
+    // Uyga vazifa
+
+    //Func1.
+
+    // function power(a, n){
+    //  return a ** n;
+    // }
+    // console.log(power(3, 5));
+    
+
   
