@@ -780,11 +780,17 @@
 
 
 //Func1.
-function restange(a, b){
-  let yuza  = a * b;
-  let piremetr = 2 * (a + b);
-  return [yuza , piremetr];  
+// function restange(a, b){
+//   let yuza  = a * b;
+//   let piremetr = 2 * (a + b);
+  
+//   return yuza + " "+ piremetr;  
 
+// }
+// console.log(restange(6, 9));
+function  triangle(a){
+  let yuza = (a ** 2 * Math.sqrt(3)) / 4;
+  let piremetri = 3 * a;
+  return{ yuza, piremetri} 
 }
-console.log(restange(6, 9));
-
+console.log(triangle(6));
