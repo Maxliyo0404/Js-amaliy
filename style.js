@@ -824,4 +824,12 @@
   //   return Number.isInteger(a);
   //  }
   //  console.log(isSquare(10));
+      
+
+  //Func5
    
+  function digitCount(k){
+
+  }
+  console.log(digitCount(8791));
+  
