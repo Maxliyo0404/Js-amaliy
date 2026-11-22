@@ -920,6 +920,15 @@
          
  //Func5.
  function  sumRange(A, B) {
+
+  if (A > B) {
+    return 0;
+  }
   let son = 0;
-  for()
+  for(let i = A; i <= B; i++ ){
+    son = son + i;
+  }
+  return son;
  }
+ console.log(sumRange(8, 10));
+ 
