@@ -786,3 +786,5 @@ function restange(a, b){
   return [yuza , piremetr];  
 
 }
+console.log(restange(6, 9));
+
