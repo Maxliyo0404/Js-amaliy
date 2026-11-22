@@ -894,3 +894,16 @@
     // console.log(sign(-10));
     // console.log(sign(0));
     
+
+     //Func3.
+     function numberOfRoots(A, B, C){
+      let d = B ** 2 - 4 * A * C;
+      if () {
+        
+      } else {
+        
+      }
+     
+     }
+     console.log(numberOfRoots (1, -6, 9));
+    
