@@ -919,16 +919,16 @@
         //  console.log(areaCircle(4));
          
  //Func6.
- function  sumRange(A, B) {
+//  function  sumRange(A, B) {
 
-  if (A > B) {
-    return 0;
-  }
-  let son = 0;
-  for(let i = A; i <= B; i++ ){
-    son = son + i;
-  }
-  return son;
- }
- console.log(sumRange(8, 10));
+//   if (A > B) {
+//     return 0;
+//   }
+//   let son = 0;
+//   for(let i = A; i <= B; i++ ){
+//     son = son + i;
+//   }
+//   return son;
+//  }
+//  console.log(sumRange(8, 10));
  
