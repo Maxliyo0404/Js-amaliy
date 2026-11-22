@@ -933,21 +933,21 @@
 //  console.log(sumRange(8, 10));
 
   //Func7
-  function  calc(A, B, S){
-    if (S === "-") {
-      return A - B;
-    }else if(S === "+"){
-      return A + B;
-    }else if(S === "*"){
-      return A * B;
-    }
-    else if(S === "/"){
-      return A / B;
-    }else{
-      return 0;
-    }
-  }
-  console.log(calc(10, 15,"*"));
-  console.log(calc(7, 8,"+"));
-  console.log(calc(10, 15,"%"));
+  // function  calc(A, B, S){
+  //   if (S === "-") {
+  //     return A - B;
+  //   }else if(S === "+"){
+  //     return A + B;
+  //   }else if(S === "*"){
+  //     return A * B;
+  //   }
+  //   else if(S === "/"){
+  //     return A / B;
+  //   }else{
+  //     return 0;
+  //   }
+  // }
+  // console.log(calc(10, 15,"*"));
+  // console.log(calc(7, 8,"+"));
+  // console.log(calc(10, 15,"%"));
   
