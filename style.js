@@ -1012,3 +1012,4 @@
     console.log(i);
     totoal += '*';
   }
+console.log(totoal);
