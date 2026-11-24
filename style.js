@@ -1010,5 +1010,5 @@
   let totoal = '';
   for(let i = 0; i < son.length; i++){
     console.log(i);
-    
+    totoal += '*';
   }
