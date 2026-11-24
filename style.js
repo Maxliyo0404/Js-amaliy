@@ -1007,3 +1007,5 @@
    
  
   const son = 'Abduraxmonova';
+  let totoal = '';
+  
