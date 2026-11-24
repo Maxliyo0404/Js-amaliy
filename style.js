@@ -979,13 +979,31 @@
   
 
   //Func10.
-   function isPowerN(K, N){
-    let son = K > N;
-     if () {
-      
-     } else {
-      
-     }
-   }
-   console.log( isPowerN(8, 10));
+  //  function isPowerN(K, N){
+  //   let son = 1;
+  //   while (son < K) {
+  //     son = son * N;
+  //   }
+  //    return son === K;
+  //  }
+  //  console.log( isPowerN(8, 10));
+  //  console.log( isPowerN(64, 8));
+  //  console.log( isPowerN(27, 3));
    
+   //Func11.
+  //  function  isPrime(N){
+  //   return N % 2 !== 0;
+  //  }
+  //  console.log(isPrime(7) );
+  //  function  isPrime(N){
+  //   if (N % 2 !== 0) {
+  //     return true;
+  //   } else {
+  //     return false;
+  //   }
+  //  }
+  //  console.log(isPrime(7) );
+  //  console.log(isPrime(12) );
+   
+ 
+  const son = 'Abduraxmonova';
