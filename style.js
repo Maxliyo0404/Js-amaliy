@@ -1009,5 +1009,6 @@
   const son = 'Abduraxmonova';
   let totoal = '';
   for(let i = 0; i < son.length; i++){
+    console.log(i);
     
   }
