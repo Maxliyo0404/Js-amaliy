@@ -1011,11 +1011,12 @@
 
    function isPrime(k){
     if(k <= 1){
-      return false
+      return false;
     }
     for(let i = 2; i < k; i++){
       if(k % i === 0){
-        
+        return false;
       }
     }
+    return true;
    }
