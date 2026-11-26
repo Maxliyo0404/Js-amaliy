@@ -1030,5 +1030,5 @@
      }
      return son;
    }
-   console.log(numberOfPrime(10));
+   console.log(numberOfPrime(16));
    
