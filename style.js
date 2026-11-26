@@ -1036,5 +1036,9 @@
    //Func13
    
    function digitNth(K, N) {
-    
+
    }
+   console.log( digitNth(105782, 5) );
+   console.log();
+   
+   
