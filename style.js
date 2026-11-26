@@ -1014,6 +1014,8 @@
       return false
     }
     for(let i = 2; i < k; i++){
-      
+      if(k % i === 0){
+        
+      }
     }
    }
