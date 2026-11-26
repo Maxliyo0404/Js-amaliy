@@ -1023,5 +1023,5 @@
    console.log(isPrime(5));
    function numberOfPrime(N){
     let son = 0;
-     for(let i = 2; )
+     for(let i = 2; i < N;)
    }
