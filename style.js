@@ -1043,7 +1043,8 @@
       return son;
     }
    function digitNth(K, N) {
-     if (K > 0 ) {
+    let uzunlik = digitilcount(K);
+     if (uzunlik < 0 ) {
       return 
      }
    }
