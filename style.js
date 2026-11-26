@@ -1020,3 +1020,7 @@
     }
     return true;
    }
+   console.log(isPrime(5));
+   function numberOfPrime(N){
+    let son = 0
+   }
