@@ -1006,10 +1006,12 @@
   //  console.log(isPrime(12) );
    
  
-  const son = 'Abduraxmonova';
-  let totoal = '';
-  for(let i = 0; i < son.length; i++){
-    console.log(i);
-    totoal += '*';
-  }
-console.log(totoal);
+ 
+   //Func12.
+
+   function isPrime(k){
+    if(k <= 1){
+      return false
+    }
+    for(let i = 2; i < k)
+   }
