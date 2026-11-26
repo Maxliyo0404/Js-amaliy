@@ -1009,26 +1009,32 @@
  
    //Func12.
 
-   function isPrime(k){
-    if(k <= 1){
-      return false;
-    }
-    for(let i = 2; i < k; i++){
-      if(k % i === 0){
-        return false;
-      }
-    }
-    return true;
-   }
-   console.log(isPrime(5));
-   function numberOfPrime(N){
-    let son = 0;
-     for(let i = 2; i < N; i++){
-      if(isPrime(i) === true){
-        son++;
-      }
-     }
-     return son;
-   }
-   console.log(numberOfPrime(16));
+  //  function isPrime(k){
+  //   if(k <= 1){
+  //     return false;
+  //   }
+  //   for(let i = 2; i < k; i++){
+  //     if(k % i === 0){
+  //       return false;
+  //     }
+  //   }
+  //   return true;
+  //  }
+  //  console.log(isPrime(5));
+  //  function numberOfPrime(N){
+  //   let son = 0;
+  //    for(let i = 2; i < N; i++){
+  //     if(isPrime(i) === true){
+  //       son++;
+  //     }
+  //    }
+  //    return son;
+  //  }
+  //  console.log(numberOfPrime(16));
    
+
+   //Func13
+   
+   function digitNth(K, N) {
+    
+   }
