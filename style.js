@@ -1048,7 +1048,9 @@
       return -1;
      }
      let ochir = uzunlik - N;
-     for(let i = 0; i < ochir;)
+     for(let i = 0; i < ochir; i++){
+      K = Math.floor(K / 10)
+     }
    }
    console.log( digitNth(105782, 5) );
    console.log(digitNth(1057, 5) );
