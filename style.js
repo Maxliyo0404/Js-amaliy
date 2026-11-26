@@ -1030,3 +1030,5 @@
      }
      return son;
    }
+   console.log(numberOfPrime(10));
+   
