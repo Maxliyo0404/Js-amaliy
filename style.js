@@ -1037,8 +1037,10 @@
     function digitilcount(K){
       let son = 0;
       while (K > 0) {
-        K = Math.floor(K /10)
+        K = Math.floor(K /10);
+        son++;
       }
+      return son;
     }
    function digitNth(K, N) {
      if (K > 0 ) {
