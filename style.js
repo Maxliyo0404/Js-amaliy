@@ -1045,7 +1045,7 @@
    function digitNth(K, N) {
     let uzunlik = digitilcount(K);
      if (uzunlik < 0 ) {
-      return 
+      return -1;
      }
    }
    console.log( digitNth(105782, 5) );
