@@ -1034,9 +1034,16 @@
    
 
    //Func13
-   
+    function digitilcount(K){
+      let son = 0;
+      while (K > 0) {
+        K = Math.floor(K /10)
+      }
+    }
    function digitNth(K, N) {
-
+     if (K > 0 ) {
+      return 
+     }
    }
    console.log( digitNth(105782, 5) );
    console.log(digitNth(1057, 5) );
