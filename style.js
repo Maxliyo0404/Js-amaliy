@@ -1066,6 +1066,9 @@
     {name:"Sardor", age: 25}
   ];
   for(let i = 0; i < users.length; i++){
-
+   if(users[i].age >= 18){
+    console.log(`${users[i].name}:  ${users[i].age} yosh`);
+    
+   }
   }
  
