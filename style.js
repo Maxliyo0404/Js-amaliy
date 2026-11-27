@@ -1060,4 +1060,4 @@
 
 
    //1
-   let users =[{name:Ali, age: 17}, {name:Vali, age: 22}]
+   let users =[{name:Ali, age: 17}, {name:Vali, age: 22}, {name:Sardor, age: 25}]
