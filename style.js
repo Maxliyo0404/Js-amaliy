@@ -1091,3 +1091,8 @@
   //   }
   
   // }
+
+  //4.
+  let product =[
+    {name: "Laptop" , price: 800}
+  ]
