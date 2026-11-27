@@ -1073,12 +1073,21 @@
   // }
    
   //2.
-  let prices = [100000, 250000, 5000000, 7500000];
-  let sum = 0;
-  for(let i = 0; i < prices.length; i++){
-    let hisob = prices[i] + prices[i] * 0.15;
- sum += hisob
- console.log(hisob);
+//   let prices = [100000, 250000, 5000000, 7500000];
+//   let sum = 0;
+//   for(let i = 0; i < prices.length; i++){
+//     let hisob = prices[i] + prices[i] * 0.15;
+//  sum += hisob
+//  console.log(hisob);
+//   }
+  
+  //3.
+  let numbers = [12, 85, 34, 100, 67, 23, 90, 45];
+  numbers.sort((a , b) => a - b);
+  for(let i = 0; i < numbers.length; i++){
+    if (numbers[i] >= 50) {
+      console.log(`${numbers[i]}`);
+      
+    }
+  
   }
-  
-  
