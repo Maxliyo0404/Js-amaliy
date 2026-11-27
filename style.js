@@ -1113,7 +1113,7 @@
     
    ];
    for(let i = 0; i < users.length; i++){
-    if(users[i].age >= 18){
-     console.log(`${users[i].name}:  ${users[i].age} yosh`);
+    if(users[i].age >= 25){
+     console.log(` id:${ users[i].id} ${users[i].name} ${users[i].age} yosh.`);
     }
     }
