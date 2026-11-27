@@ -1093,6 +1093,14 @@
   // }
 
   //4.
-  let product =[
-    {name: "Laptop" , price: 800}
-  ]
+  // let product =[
+  //   {name: "Laptop" , price: 800},
+  //   {name: "Phone" , price: 500},
+  // ]
+  // let sum = 0;
+  // for(let i = 0; i < product.length;i++ ){
+  //  sum += product[i].price
+  
+   
+  // }
+  //  console.log(sum);
