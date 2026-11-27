@@ -1060,4 +1060,12 @@
 
 
    //1
-   let users =[{name:Ali, age: 17}, {name:Vali, age: 22}, {name:Sardor, age: 25}]
+   let users =[
+    {name:"Ali", age: 17},
+    {name:"Vali", age: 22},
+    {name:"Sardor", age: 25}
+  ];
+  for(let i = 0; i < users.length; i++){
+
+  }
+ 
