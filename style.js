@@ -1076,7 +1076,7 @@
   let prices = [100000, 250000, 5000000, 7500000];
   let sum = 0;
   for(let i = 0; i < prices.length; i++){
-    let hisob = prices[i] - prices[i] * 0.15;
+    let hisob = prices[i] + prices[i] * 0.15;
  sum += hisob
  console.log(hisob);
   }
