@@ -1108,8 +1108,8 @@
   //5.
 
   let users =[
-     { id: 1, name:"Ali", age: 17},
-     { id: 2, name:"Vali", age: 22},
+     { id: 1, name:"Ali", age: 20},
+     { id: 2, name:"Vali", age: 25},
     
    ];
    for(let i = 0; i < users.length; i++){
