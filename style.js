@@ -1034,26 +1034,26 @@
    
 
    //Func13
-    function digitilcount(K){
-      let son = 0;
-      while (K > 0) {
-        K = Math.floor(K /10);
-        son++;
-      }
-      return son;
-    }
-   function digitNth(K, N) {
-    let uzunlik = digitilcount(K);
-     if (uzunlik < 0 ) {
-      return -1;
-     }
-     let ochir = uzunlik - N;
-     for(let i = 0; i < ochir; i++){
-      K = Math.floor(K / 10);
-     }
-     return K %  10;
-   }
-   console.log( digitNth(105782, 5) );
-   console.log(digitNth(1057, 5) );
+  //   function digitilcount(K){
+  //     let son = 0;
+  //     while (K > 0) {
+  //       K = Math.floor(K /10);
+  //       son++;
+  //     }
+  //     return son;
+  //   }
+  //  function digitNth(K, N) {
+  //   let uzunlik = digitilcount(K);
+  //    if (uzunlik < 0 ) {
+  //     return -1;
+  //    }
+  //    let ochir = uzunlik - N;
+  //    for(let i = 0; i < ochir; i++){
+  //     K = Math.floor(K / 10);
+  //    }
+  //    return K %  10;
+  //  }
+  //  console.log( digitNth(105782, 5) );
+  //  console.log(digitNth(1057, 5) );
    
    
