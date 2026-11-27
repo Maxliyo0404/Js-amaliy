@@ -1082,12 +1082,12 @@
 //   }
   
   //3.
-  let numbers = [12, 85, 34, 100, 67, 23, 90, 45];
-  numbers.sort((a , b) => a - b);
-  for(let i = 0; i < numbers.length; i++){
-    if (numbers[i] >= 50) {
-      console.log(`${numbers[i]}`);
+  // let numbers = [12, 85, 34, 100, 67, 23, 90, 45];
+  // numbers.sort((a , b) => a - b);
+  // for(let i = 0; i < numbers.length; i++){
+  //   if (numbers[i] >= 50) {
+  //     console.log(`${numbers[i]}`);
       
-    }
+  //   }
   
-  }
+  // }
