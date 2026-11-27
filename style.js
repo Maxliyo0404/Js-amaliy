@@ -1056,4 +1056,8 @@
   //  console.log( digitNth(105782, 5) );
   //  console.log(digitNth(1057, 5) );
    
-   
+   // Array masalalari
+
+
+   //1
+   let users =[{name:Ali, age: 17}, {name:Vali, age: 22}]
