@@ -1060,15 +1060,25 @@
 
 
    //1
-   let users =[
-    {name:"Ali", age: 17},
-    {name:"Vali", age: 22},
-    {name:"Sardor", age: 25}
-  ];
-  for(let i = 0; i < users.length; i++){
-   if(users[i].age >= 18){
-    console.log(`${users[i].name}:  ${users[i].age} yosh`);
+  //  let users =[
+  //   {name:"Ali", age: 17},
+  //   {name:"Vali", age: 22},
+  //   {name:"Sardor", age: 25}
+  // ];
+  // for(let i = 0; i < users.length; i++){
+  //  if(users[i].age >= 18){
+  //   console.log(`${users[i].name}:  ${users[i].age} yosh`);
     
-   }
+  //  }
+  // }
+   
+  //2.
+  let prices = [100000, 250000, 5000000, 7500000];
+  let sum = 0;
+  for(let i = 0; i < prices.length; i++){
+    let hisob = prices[i] - prices[i] * 0.15;
+ sum += hisob
+ console.log(hisob);
   }
- 
+  
+  
