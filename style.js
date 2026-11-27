@@ -1107,13 +1107,13 @@
 
   //5.
 
-  let users =[
-     { id: 1, name:"Ali", age: 20},
-     { id: 2, name:"Vali", age: 25},
+  // let users =[
+  //    { id: 1, name:"Ali", age: 20},
+  //    { id: 2, name:"Vali", age: 25},
     
-   ];
-   for(let i = 0; i < users.length; i++){
-    if(users[i].age >= 25){
-     console.log(` id:${ users[i].id} ${users[i].name} ${users[i].age} yosh.`);
-    }
-    }
+  //  ];
+  //  for(let i = 0; i < users.length; i++){
+  //   if(users[i].age >= 25){
+  //    console.log(` id:${ users[i].id} ${users[i].name} ${users[i].age} yosh.`);
+  //   }
+  //   }
